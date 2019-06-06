@@ -11,3 +11,9 @@ b {
     color: mediumpurple;
 }
 
+.intro {
+    text-align: center;
+    padding: 35px;
+    margin: 10px;
+    
+}
