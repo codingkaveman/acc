@@ -599,7 +599,7 @@ a.hover-reverse:hover, a.hover-reverse:focus, a.hover-reverse:active {
 }
 
 .probootstrap-section.probootstrap-section-dark .section-heading p {
-  color: rgba(255, 255, 255, 0.6);
+  color: white;
 }
 
 .probootstrap-section.probootstrap-section-dark p {
