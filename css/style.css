@@ -75,10 +75,6 @@ p, ul, ol, figure {
   margin-bottom: 1.3em;
 }
 
-b {
-    color: antiquewhite;
-}
-
 a {
   -webkit-transition: .3s all;
   transition: .3s all;
@@ -110,17 +106,29 @@ a.hover-reverse:hover, a.hover-reverse:focus, a.hover-reverse:active {
 
 .probootstrap-logo {
   float: left;
-  color: #ffffff;
+  color: gold;
   padding-left: 0px;
-  font-size: 20px;
+  font-size: 45px;
   display: block;
   text-transform: uppercase;
-  font-weight: 900;
-  font-family: "Open Sans", sans-serif;
+  text-decoration: underline;
+  text-decoration-color: gold;
+  text-shadow: 2px 2px #ff0000;
+  font-weight: 500;
+  font-family: 'Righteous', cursive;
 }
 
 .probootstrap-logo:hover, .probootstrap-logo:focus, .probootstrap-logo:active {
-  color: #ffffff;
+  color: goldenrod;
+  padding-left: 0px;
+  font-size: 45px;
+  display: block;
+  text-transform: uppercase;
+  text-decoration: underline;
+  text-decoration-color: goldenrod;
+  text-shadow: 2px 2px #ff0000;
+  font-weight: 500;
+  font-family: 'Righteous', cursive;
 }
 
 @media screen and (max-width: 768px) {
@@ -599,7 +607,7 @@ a.hover-reverse:hover, a.hover-reverse:focus, a.hover-reverse:active {
 }
 
 .probootstrap-section.probootstrap-section-dark .section-heading p {
-  color: rgba(255, 255, 255, 0.6);
+  color: white;
 }
 
 .probootstrap-section.probootstrap-section-dark p {

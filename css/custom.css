@@ -1,1 +1,34 @@
 /* Your custom css code goes here */
+p {
+    color: white;
+}
+
+ul li {
+    color: ghostwhite;
+}
+
+b {
+    color: mediumpurple;
+}
+
+.intro {
+    font-size: 18px;
+    text-align: center;
+    padding: 35px;
+    margin: 10px;
+}
+
+#tag {
+    color: 
+    padding: 5px;
+    margin-left: 65px;
+    text-align: left;
+    text-shadow: 2px 2px black;
+    font-family: 'Righteous', cursive;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+#facebook_share {
+    margin-left: 65px;
+}
